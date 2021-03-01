@@ -23,8 +23,18 @@
 最新の戦術を自分達のチームに取り入れる。
 
 
-機能一覧
+### 機能一覧
 https://docs.google.com/spreadsheets/d/1ifacPpWqpcpGqtit_JDffgZ-z3Yy1WzUtKwoTtcJNZo/edit#gid=0
+
+### ER図
+https://app.diagrams.net/#G15l3RtdOMn2YMvg8joqI28lPj75ZzqPWc
+
+### テーブル定義書
+https://docs.google.com/spreadsheets/d/1fA6TlqSYfgjD2SisQKSEmiZjfpbg2NPs97LnB0sdS2o/edit#gid=184226603
+
+### アプリケーション詳細
+https://docs.google.com/spreadsheets/d/1M1FdqsSp6hoyV3dHCEThkZDfyLSVp-Xh6GTyqSTKpmA/edit#gid=0
+
 
 開発環境
 - OS：Linux(CentOS)
