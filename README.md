@@ -35,8 +35,10 @@ https://docs.google.com/spreadsheets/d/1fA6TlqSYfgjD2SisQKSEmiZjfpbg2NPs97LnB0sd
 ### アプリケーション詳細
 https://docs.google.com/spreadsheets/d/1M1FdqsSp6hoyV3dHCEThkZDfyLSVp-Xh6GTyqSTKpmA/edit#gid=0
 
+### WBS
+https://docs.google.com/spreadsheets/d/1NMqwTOxE1Z1T56cD2PX9ln4FM6h-zAL12ped8kyC2M4/edit#gid=936539047
 
-開発環境
+### 開発環境
 - OS：Linux(CentOS)
 - 言語：HTML,CSS,Ruby,javascript
 - フレームワーク：Ruby on Rails
