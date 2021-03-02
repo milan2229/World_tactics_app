@@ -26,18 +26,6 @@
 ### 機能一覧
 https://docs.google.com/spreadsheets/d/1ifacPpWqpcpGqtit_JDffgZ-z3Yy1WzUtKwoTtcJNZo/edit#gid=0
 
-### ER図
-https://app.diagrams.net/#G15l3RtdOMn2YMvg8joqI28lPj75ZzqPWc
-
-### テーブル定義書
-https://docs.google.com/spreadsheets/d/1fA6TlqSYfgjD2SisQKSEmiZjfpbg2NPs97LnB0sdS2o/edit#gid=184226603
-
-### アプリケーション詳細
-https://docs.google.com/spreadsheets/d/1M1FdqsSp6hoyV3dHCEThkZDfyLSVp-Xh6GTyqSTKpmA/edit#gid=0
-
-### WBS
-https://docs.google.com/spreadsheets/d/1NMqwTOxE1Z1T56cD2PX9ln4FM6h-zAL12ped8kyC2M4/edit#gid=936539047
-
 ### 開発環境
 - OS：Linux(CentOS)
 - 言語：HTML,CSS,Ruby,javascript
